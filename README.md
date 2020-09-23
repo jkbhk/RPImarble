@@ -1,2 +1,2 @@
 # RPImarble
-some school project 
+Basic Raspberry Pi project with some fun animations.
